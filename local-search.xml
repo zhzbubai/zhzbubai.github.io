@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>数学竞赛</title>
+    <link href="/2024/11/05/%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E7%9B%B8%E5%85%B3/"/>
+    <url>/2024/11/05/%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E7%9B%B8%E5%85%B3/</url>
+    
+    <content type="html"><![CDATA[<h3 id="摘要：有关数学竞赛的知识分享与记录"><a href="#摘要：有关数学竞赛的知识分享与记录" class="headerlink" title="摘要：有关数学竞赛的知识分享与记录"></a>摘要：有关数学竞赛的知识分享与记录</h3><span id="more"></span><h5 id="1-极限"><a href="#1-极限" class="headerlink" title="1.极限"></a>1.极限</h5><h5 id="1-1-泰勒展开"><a href="#1-1-泰勒展开" class="headerlink" title="1.1 泰勒展开"></a>1.1 泰勒展开</h5><p>$$<br>e^x &#x3D; 1 + x + \frac{x^2}{2!}+\frac{x^3}{3!}<br>$$</p><p>$$<br>\sin x &#x3D; x - \frac{x^3}{3!} + \frac{x^5}{5!}  - \frac{x^7}{7!}<br>$$</p><p>$$<br>\cos x &#x3D; 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \frac{x^6}{6!}<br>$$</p><p>$$<br>\ln (x+1) &#x3D;<br>$$</p><h5 id="1-2-等价无穷小"><a href="#1-2-等价无穷小" class="headerlink" title="1.2 等价无穷小"></a>1.2 等价无穷小</h5><p>notice:<br>$ 1^{\circ}$等价无穷小的使用条件是x趋于无穷小时成立，其中x可以不仅仅可以是变量，等式也成立。</p><p>$2^{\circ}$在有加减运算时，是不适用的，需要将其变换成乘除的形式才能适用。</p><p>常用的等价无穷小有：<br>$$<br>\quad  \ln x \  \sim \ x-1 \qquad \ (1)<br>$$</p><p>$$<br>\cos x -1 \  \sim \ \frac{x^2}{2!}<br>$$</p><p>$$<br>(1+\square)^{k} \  \sim \ \square \times k<br>$$</p><p>$$<br>e^{\square} -1  \ \sim  \ \square<br>$$</p><p>$(1)$式推导<br>$$<br>\because  \ \ln(1 + x) \ \sim  \ x<br>$$</p><p>$$<br>\quad\qquad  \therefore \ \ln (1 + x - 1) \ \sim \ x-1<br>$$</p><h5 id="1-3数列极限扩展"><a href="#1-3数列极限扩展" class="headerlink" title="1.3数列极限扩展"></a>1.3数列极限扩展</h5><p>stole公式：</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>数学</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>数学</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2024/11/05/hello-world/"/>
     <url>/2024/11/05/hello-world/</url>
